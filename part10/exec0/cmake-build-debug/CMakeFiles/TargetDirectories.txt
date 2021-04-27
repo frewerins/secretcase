@@ -1,0 +1,3 @@
+/home/anastasia/CLionProjects/caos/part10/exec0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/anastasia/CLionProjects/caos/part10/exec0/cmake-build-debug/CMakeFiles/exec0.dir
+/home/anastasia/CLionProjects/caos/part10/exec0/cmake-build-debug/CMakeFiles/edit_cache.dir

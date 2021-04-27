@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/1_with_right_signals.dir/main.c.o  -o 1_with_right_signals 

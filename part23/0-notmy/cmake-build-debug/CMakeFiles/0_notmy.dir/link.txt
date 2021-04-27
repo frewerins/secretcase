@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/0_notmy.dir/main.c.o  -o 0_notmy 

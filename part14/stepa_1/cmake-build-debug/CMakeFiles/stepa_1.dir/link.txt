@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/stepa_1.dir/main.c.o  -o stepa_1 
